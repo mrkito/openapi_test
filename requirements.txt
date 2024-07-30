@@ -1,0 +1,6 @@
+gradio==4.39.0
+langchain
+python-docx
+pandas== 2.2.2
+langchain-openai==0.1.7
+openpyxl==3.1.2
